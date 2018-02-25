@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">CodeLab_Push_Imagens</string>
+	<string name="default_notification_channel_id">CodeLabPushImagens</string>
+</resources>
